@@ -1,7 +1,6 @@
 ## Breast Cancer Prediction
 
-Proposal :-  
-https://docs.google.com/presentation/d/1Llfy24U1x3-Usc8XFEFqX6xOmGMPKgqm/edit?usp=sharing&ouid=116339575009512003223&rtpof=true&sd=true
+Production Plan :- https://docs.google.com/spreadsheets/d/1M-AMnf_wsazdIyb5taa17M4VjacGeaT7/edit#gid=374201105
 
 Trello :- 
 https://trello.com/invite/b/p1XeGu9r/ATTIa02780d4cf8bff44acd170eea44c02ed95893A0B/bcp-workflow
